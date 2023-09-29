@@ -3,6 +3,6 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Проекты
 
-* [Проект 0. Игра: угадай число](https://github.com/methenniel/data_science/tree/main/project_0)
-* [Проект 1. ](__)
+* [Проект 0. Игра: угадай число](https://github.com/monkebird/data_science/tree/main/project_0)
+* [Проект 1. Очистка данных на Python](https://github.com/monkebird/DataCleaningProject)
 * [Проект 2. ](__)
